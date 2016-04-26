@@ -1,0 +1,28 @@
+name: ZaudPhoto
+favicon: null
+layout_spectrum: 0.3136783817317337
+typography_spectrum: 0.5913202704396099
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3802401090506464
+  lightness: 0.7774605068843812
+  saturation: 0.5382363717071712
+  rhythmicContrast: 0.3793857202399522
+purpose: []
